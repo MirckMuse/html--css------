@@ -1,0 +1,14 @@
+table{
+	border-collapse: collapse;
+
+}
+td{
+	overflow: hidden;	
+	border: 1px solid;
+}
+.auto-layout{
+	table-layout: auto;
+}
+.shrinkwrap{
+	width: auto;
+}
